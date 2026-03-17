@@ -1,0 +1,111 @@
+# ASO Skill — App Store Optimization Rules
+
+When working on App Store Optimization (ASO) tasks, apply the following guidelines and knowledge.
+
+---
+
+## App Store Optimization (ASO) Skill
+
+### Platform Character Limits
+
+#### Apple App Store
+- **Title**: 30 characters maximum
+- **Subtitle**: 30 characters maximum
+- **Promotional Text**: 170 characters (editable without app update)
+- **Description**: 4,000 characters
+- **Keywords field**: 100 characters (comma-separated, no spaces between commas)
+
+#### Google Play Store
+- **Title**: 50 characters maximum
+- **Short Description**: 80 characters maximum
+- **Full Description**: 4,000 characters
+- No separate keyword field (keywords extracted from title and description)
+
+### Core Capabilities
+
+#### Keyword Research
+- Analyze search volume, competition, and relevance for target keywords
+- Discover long-tail keyword opportunities (3-4 word phrases with lower competition)
+- Extract competitor keyword strategies from app listings
+- Balance high-volume keywords with achievable rankings
+- Recommend primary (title/subtitle) vs. secondary (description/keyword field) keyword distribution
+
+#### Metadata Optimization
+- Front-load most important keywords in titles (first 15 characters are most critical)
+- Write for humans first, search algorithms second
+- Use every available character — maximize all available space
+- For Apple keyword field: no plurals, no duplicate words, no spaces after commas
+- Always validate outputs against character limits before presenting
+- Provide at least 3 title variants when optimizing
+- Include character counts in all outputs (e.g., "FitFlow - Home Workouts (28/30 chars)")
+
+#### Competitor Analysis
+- Identify and analyze top competitors in the category
+- Extract keyword strategies from competitor app store listings
+- Find competitive gaps and positioning opportunities
+
+#### ASO Health Scoring
+- Calculate 0-100 overall ASO health score
+- Break down by: Metadata Quality, Ratings & Reviews, Keyword Performance, Conversion Metrics (each 0-25)
+- Generate prioritized action recommendations
+
+#### A/B Testing
+- Design statistically valid test hypotheses
+- Calculate required sample sizes for statistical confidence
+- Test one element at a time (icon, title, screenshots)
+- Define success metrics before testing
+
+#### Review Analysis
+- Calculate sentiment distribution (positive/negative/neutral)
+- Extract common themes, feature requests, and bug reports
+- Generate professional, empathetic response templates
+
+#### Launch Planning
+- Generate platform-specific pre-launch checklists
+- Validate compliance with platform guidelines
+- Recommend optimal launch timing
+- Plan seasonal campaigns
+
+#### Localization Strategy
+- Prioritize target markets by opportunity and ROI
+- Adapt keywords for cultural and linguistic differences
+- Validate character limits for target languages
+
+### Best Practices
+
+1. **Always validate character limits** before presenting any metadata output
+2. **Provide at least 3 title options** when optimizing app titles
+3. **Include character counts** in all metadata outputs (e.g., "28/30 chars")
+4. **Ask for app details** if not provided: name, category, features, target audience, current metrics
+5. **Distinguish platforms** — Apple and Google have different requirements
+6. **Never repeat keywords** across title, subtitle, and keyword field (Apple)
+7. **Focus on organic** — this skill covers organic ASO only, not paid acquisition
+
+### Limitations
+
+- Keyword search volumes are estimates (no official Apple/Google data)
+- Does not cover paid acquisition (Apple Search Ads, Google UAC)
+- A/B testing requires significant traffic for statistical significance
+- Focuses exclusively on organic app store optimization
+
+### Usage Examples
+
+```
+Use the App Store Optimization skill to research keywords for my [category] app.
+Target audience: [description]. Competitors: [list].
+```
+
+```
+Use the App Store Optimization skill to optimize my [Apple/Google] metadata.
+App: [name], Category: [category], Features: [list]
+```
+
+```
+Use the App Store Optimization skill to calculate my ASO health score.
+Rating: [X] stars, Conversion rate: [X]%, Keywords in top 10: [N]
+```
+
+```
+Use the App Store Optimization skill to generate a pre-launch checklist.
+Launch date: [date], Target stores: [Apple/Google/both]
+```

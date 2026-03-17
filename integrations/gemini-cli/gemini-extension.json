@@ -1,0 +1,8 @@
+{
+  "name": "aso-skill",
+  "version": "1.0.0",
+  "description": "App Store Optimization (ASO) skill for researching, optimizing, and tracking mobile app performance",
+  "skills": [
+    "app-store-optimization"
+  ]
+}
