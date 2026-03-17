@@ -1,4 +1,4 @@
-# 🚀 App Store Optimization (ASO) Agent and Agent Skill System for Claude Code
+# 🚀 App Store Optimization (ASO) Agent and Agent Skill System
 
 <div align="center">
 
@@ -6,11 +6,14 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Compatible-purple.svg)
 ![Claude App](https://img.shields.io/badge/Claude_App-Compatible-orange.svg)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Compatible-blue.svg)
+![Cursor](https://img.shields.io/badge/Cursor-Compatible-green.svg)
+![Windsurf](https://img.shields.io/badge/Windsurf-Compatible-teal.svg)
 ![Status](https://img.shields.io/badge/status-production_ready-success.svg)
 
 **Professional App Store Optimization (ASO) powered by AI agents**
 
-[Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Examples](#-example-outputs)
+[Features](#-features) • [Installation](#-installation) • [Quick Start](#-quick-start) • [Integrations](#-integrations) • [Documentation](#-documentation) • [Examples](#-example-outputs)
 
 </div>
 
@@ -18,11 +21,12 @@
 
 ## 📋 Overview
 
-The **ASO (App Stores Optimization) Agent System for Claude Code** is a comprehensive, production-ready multi-agent framework for App Store Optimization (ASO) built for **Claude Code** and **Claude Desktop/Web App**. It combines specialized AI agents including a Agent Skill (Claude's New Feature) set with real-time data fetching to generate **actionable, copy-paste ready deliverables** for iOS and Android app optimization.
+The **ASO Agent System** is a comprehensive, production-ready multi-agent framework for App Store Optimization (ASO). It works with **Claude Code**, **Claude Desktop/Web App**, and a wide range of other AI coding tools. It combines specialized AI agents with real-time data fetching to generate **actionable, copy-paste ready deliverables** for iOS and Android app optimization.
 
-**Two ways to use:**
+**Multiple ways to use:**
 - 🖥️ **Claude Code CLI** - Full multi-agent system with automated workflows (developers)
 - 🌐 **Claude Desktop/Web App** - Standalone skill for conversational ASO analysis (everyone)
+- 🤖 **Other AI coding tools** (GitHub Copilot, Cursor, Windsurf, Aider, OpenCode, and more) - See [Integrations](#-integrations)
 
 ### 🎯 What Makes This Different
 
@@ -410,6 +414,25 @@ See [ARCHITECTURE.md](.claude/ARCHITECTURE.md) for complete details.
 
 ---
 
+## 🔌 Integrations
+
+The ASO skill works with many AI coding tools beyond Claude Code. Each integration is pre-packaged in the [`integrations/`](integrations/) directory with install instructions.
+
+| Tool | Format | Install |
+|------|--------|---------|
+| **GitHub Copilot** | `.md` agent | `cp integrations/github-copilot/app-store-optimization.md ~/.github/agents/` |
+| **Antigravity** | `SKILL.md` | `cp integrations/antigravity/SKILL.md ~/.gemini/antigravity/skills/aso-skill.md` |
+| **Gemini CLI** | Extension + `SKILL.md` | See [gemini-cli/README.md](integrations/gemini-cli/README.md) |
+| **OpenCode** | `.md` subagent | `cp integrations/opencode/app-store-optimization.md .opencode/agents/` |
+| **OpenClaw** | Workspace (3 files) | See [openclaw/README.md](integrations/openclaw/README.md) |
+| **Cursor** | `.mdc` rule | `cp integrations/cursor/app-store-optimization.mdc .cursor/rules/` |
+| **Aider** | `CONVENTIONS.md` | `cp integrations/aider/CONVENTIONS.md .` |
+| **Windsurf** | `.windsurfrules` | `cp integrations/windsurf/.windsurfrules .` |
+
+Full details and tool-specific activation instructions: **[integrations/README.md](integrations/README.md)**
+
+---
+
 ## 📚 Documentation
 
 | Document | Description |
@@ -591,6 +614,7 @@ A: Yes. All agents are Markdown files in `.claude/agents/aso/` - edit freely.
 - [x] Copy-paste ready metadata
 - [x] Complete documentation
 - [x] Example workflow
+- [x] Multi-tool integrations (GitHub Copilot, Cursor, Windsurf, Aider, OpenCode, Antigravity, Gemini CLI, OpenClaw)
 
 ### Version 1.1 (Planned)
 - [ ] iTunes Review API integration
