@@ -1,23 +1,28 @@
 # Gemini CLI Integration
 
-Packages the ASO skill as a Gemini CLI extension. The extension installs to `~/.gemini/extensions/aso-skill/`.
+The ASO skill is a first-class Gemini CLI extension. It provides specialized skills, slash commands, and full access to the ASO Python tools.
 
 ## Install
 
 ```bash
-mkdir -p ~/.gemini/extensions/aso-skill/skills/app-store-optimization
-cp integrations/gemini-cli/gemini-extension.json ~/.gemini/extensions/aso-skill/
-cp integrations/gemini-cli/skills/app-store-optimization/SKILL.md \
-   ~/.gemini/extensions/aso-skill/skills/app-store-optimization/
+bash integrations/install-integrations.sh gemini-cli
 ```
 
-## Activate the Skill
+This installs the extension to both `~/.gemini/extensions/aso-skill/` and your local `./.gemini/extensions/aso-skill/`.
 
-In Gemini CLI, reference the skill by name:
+## Slash Commands
 
-```
-Use the app-store-optimization skill to help me research keywords for my app.
-```
+- `/aso:full-audit` — Complete ASO audit (keyword research, metadata, strategy)
+- `/aso:optimize` — Quick metadata optimization (titles, descriptions)
+- `/aso:prelaunch` — Pre-launch validation (checklist, timeline, guide)
+- `/aso:competitor` — Competitive intelligence (gap analysis)
+
+## Skills
+
+You can also reference the skills directly:
+- `Use the app-store-optimization skill to...`
+- `Use the aso-master orchestrator to...`
+- `Invoke aso-research to...`
 
 ## Extension Structure
 
@@ -25,5 +30,15 @@ Use the app-store-optimization skill to help me research keywords for my app.
 ~/.gemini/extensions/aso-skill/
   gemini-extension.json
   skills/
-    app-store-optimization/SKILL.md
+    app-store-optimization/  # Full skill + Python tools
+    aso-master/              # Orchestrator
+    aso-research/            # Specialist
+    aso-optimizer/           # Specialist
+    aso-strategist/          # Specialist
+  commands/
+    aso/
+      full-audit.toml
+      optimize.toml
+      prelaunch.toml
+      competitor.toml
 ```

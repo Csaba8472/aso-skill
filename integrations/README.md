@@ -4,14 +4,61 @@ This directory contains the ASO skill adapted for various AI coding tools and as
 
 ## Supported Tools
 
+- **[Gemini CLI](#gemini-cli)** — Extension with slash commands and full Python tools
 - **[GitHub Copilot](#github-copilot)** — `.md` agents, use the repo directly
-- **[Antigravity](#antigravity)** — `SKILL.md` per agent in `antigravity/`
-- **[Gemini CLI](#gemini-cli)** — extension + `SKILL.md` files in `gemini-cli/`
+- **[Antigravity](#antigravity)** — Full `SKILL.md` + Python tools
 - **[OpenCode](#opencode)** — `.md` agent files in `opencode/`
-- **[OpenClaw](#openclaw)** — `SOUL.md` + `AGENTS.md` + `IDENTITY.md` workspaces
+- **[OpenClaw](#openclaw)** — `SOUL.md` + `AGENTS.md` + `IDENTITY.md` + Python tools
 - **[Cursor](#cursor)** — `.mdc` rule files in `cursor/`
 - **[Aider](#aider)** — `CONVENTIONS.md` in `aider/`
 - **[Windsurf](#windsurf)** — `.windsurfrules` in `windsurf/`
+
+## Quick Install Script
+
+You can run one script to apply the same setup commands documented below. This script now installs **full capabilities**, including all Python tools and slash commands.
+
+```bash
+# Install everything from this README
+bash integrations/install-integrations.sh all
+
+# Install selected integrations
+bash integrations/install-integrations.sh gemini-cli cursor
+
+# Set a different target project directory for project-scoped integrations
+bash integrations/install-integrations.sh --project-dir /path/to/project aso
+```
+
+---
+
+## Gemini CLI
+
+The ASO skill is now a first-class Gemini CLI extension with **slash commands** and **full Python tools**.
+
+### Install
+```bash
+bash integrations/install-integrations.sh gemini-cli
+```
+
+### Commands
+- `/aso:full-audit` — Complete ASO audit workflow
+- `/aso:optimize` — Quick metadata optimization
+- `/aso:prelaunch` — Pre-launch checklist & timeline
+- `/aso:competitor` — Competitive intelligence
+
+See [gemini-cli/README.md](gemini-cli/README.md) for details.
+
+---
+
+## Antigravity
+
+The ASO skill is packaged as an Antigravity-compatible skill with full Python tools.
+
+### Install
+```bash
+bash integrations/install-integrations.sh antigravity
+```
+
+See [antigravity/README.md](antigravity/README.md) for details.
 
 ---
 
@@ -19,68 +66,22 @@ This directory contains the ASO skill adapted for various AI coding tools and as
 
 The ASO skill works natively with GitHub Copilot. Agents use the existing `.md` + YAML frontmatter format.
 
+### Install
 ```bash
-# Copy agents to your GitHub Copilot agents directory
-cp integrations/github-copilot/*.md ~/.github/agents/
-cp integrations/github-copilot/*.md ~/.copilot/agents/
+bash integrations/install-integrations.sh github-copilot
 ```
 
 See [github-copilot/README.md](github-copilot/README.md) for details.
 
 ---
 
-## Antigravity
-
-The ASO skill is packaged as an Antigravity-compatible `SKILL.md` file.
-
-```bash
-cp integrations/antigravity/SKILL.md ~/.gemini/antigravity/skills/
-```
-
-See [antigravity/README.md](antigravity/README.md) for details.
-
----
-
-## Gemini CLI
-
-The ASO skill is packaged as a Gemini CLI extension with a skill file.
-
-```bash
-mkdir -p ~/.gemini/extensions/aso-skill/skills/app-store-optimization
-cp integrations/gemini-cli/gemini-extension.json ~/.gemini/extensions/aso-skill/
-cp integrations/gemini-cli/skills/app-store-optimization/SKILL.md \
-   ~/.gemini/extensions/aso-skill/skills/app-store-optimization/
-```
-
-See [gemini-cli/README.md](gemini-cli/README.md) for details.
-
----
-
-## OpenCode
-
-The ASO skill is available as a project-scoped agent for OpenCode.
-
-```bash
-mkdir -p .opencode/agents
-cp integrations/opencode/app-store-optimization.md .opencode/agents/
-```
-
-See [opencode/README.md](opencode/README.md) for details.
-
----
-
 ## OpenClaw
 
-The ASO skill is packaged as an OpenClaw workspace.
+The ASO skill is packaged as an OpenClaw workspace with full Python tools.
 
+### Install
 ```bash
-mkdir -p ~/.openclaw/aso-skill/app-store-optimization
-cp integrations/openclaw/app-store-optimization/SOUL.md \
-   ~/.openclaw/aso-skill/app-store-optimization/
-cp integrations/openclaw/app-store-optimization/AGENTS.md \
-   ~/.openclaw/aso-skill/app-store-optimization/
-cp integrations/openclaw/app-store-optimization/IDENTITY.md \
-   ~/.openclaw/aso-skill/app-store-optimization/
+bash integrations/install-integrations.sh openclaw
 ```
 
 See [openclaw/README.md](openclaw/README.md) for details.
@@ -89,11 +90,11 @@ See [openclaw/README.md](openclaw/README.md) for details.
 
 ## Cursor
 
-The ASO skill becomes a Cursor `.mdc` rule file. Rules are project-scoped.
+The ASO skill becomes a project-scoped Cursor `.mdc` rule file.
 
+### Install
 ```bash
-mkdir -p .cursor/rules
-cp integrations/cursor/app-store-optimization.mdc .cursor/rules/
+bash integrations/install-integrations.sh cursor
 ```
 
 See [cursor/README.md](cursor/README.md) for details.
@@ -102,10 +103,11 @@ See [cursor/README.md](cursor/README.md) for details.
 
 ## Aider
 
-All ASO skill instructions are consolidated into a single `CONVENTIONS.md` file that Aider reads automatically.
+All ASO skill instructions are consolidated into a single `CONVENTIONS.md` file.
 
+### Install
 ```bash
-cp integrations/aider/CONVENTIONS.md .
+bash integrations/install-integrations.sh aider
 ```
 
 See [aider/README.md](aider/README.md) for details.
@@ -114,10 +116,11 @@ See [aider/README.md](aider/README.md) for details.
 
 ## Windsurf
 
-All ASO skill instructions are consolidated into a single `.windsurfrules` file for your project root.
+All ASO skill instructions are consolidated into a single `.windsurfrules` file.
 
+### Install
 ```bash
-cp integrations/windsurf/.windsurfrules .
+bash integrations/install-integrations.sh windsurf
 ```
 
 See [windsurf/README.md](windsurf/README.md) for details.

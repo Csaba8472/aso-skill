@@ -1,0 +1,13 @@
+description = "Complete ASO audit: keyword research, competitor intelligence, metadata optimization, and launch planning"
+prompt = """
+Use the `app-store-optimization` skill (and specialized subagents `aso-research`, `aso-optimizer`, `aso-strategist`) to execute a comprehensive App Store Optimization audit for the provided app.
+
+**Workflow:**
+1. **Intake**: Gather app details (name, category, features, goals, platform, launch date).
+2. **Research**: Analyze keywords and competitors (using `aso-research`).
+3. **Optimization**: Generate copy-paste ready metadata (using `aso-optimizer`).
+4. **Strategy**: Create pre-launch checklist and timeline (using `aso-strategist`).
+5. **Synthesis**: Produce a unified `00-MASTER-ACTION-PLAN.md` in `outputs/[app-name]/`.
+
+Follow all instructions in `aso-master.md` and `SKILL.md`.
+"""

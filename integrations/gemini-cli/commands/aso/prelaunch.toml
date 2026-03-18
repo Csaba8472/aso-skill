@@ -1,0 +1,11 @@
+description = "Pre-launch validation: checklist, submission guide, and timeline"
+prompt = """
+Use the `app-store-optimization` skill (and specialized subagent `aso-strategist`) to prepare for an app launch.
+
+**Workflow:**
+1. Gather app details and target launch date.
+2. Generate 47-item pre-launch checklist.
+3. Build a week-by-week timeline with specific dates.
+4. Create platform-specific submission guide.
+5. Output to `outputs/[app-name]/04-launch/`.
+"""

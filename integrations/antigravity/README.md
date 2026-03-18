@@ -1,31 +1,18 @@
 # Antigravity Integration
 
-The ASO skill is packaged as an Antigravity-compatible `SKILL.md` file installed to `~/.gemini/antigravity/skills/`.
+The ASO skill is packaged as an Antigravity-compatible skill folder with full Python tools.
 
 ## Install
 
 ```bash
-cp integrations/antigravity/SKILL.md ~/.gemini/antigravity/skills/aso-skill.md
+bash integrations/install-integrations.sh antigravity
 ```
 
-## Activate the Skill
+This installs the skill to `~/.gemini/antigravity/skills/aso-skill/`.
 
-In Antigravity, activate the skill by its name:
+## Usage
 
+Activate the skill in your prompt:
 ```
 Use the aso-skill to research keywords for my mobile app.
-```
-
-## File Format
-
-The skill uses Antigravity-compatible frontmatter:
-
-```yaml
----
-name: aso-skill
-description: Complete App Store Optimization toolkit for researching, optimizing, and tracking mobile app performance
-risk: low
-source: community
-date_added: '2026-03-17'
----
 ```
