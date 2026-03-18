@@ -1,0 +1,10 @@
+description = "Competitive intelligence: analyze competitors and identify gaps"
+prompt = """
+Use the `app-store-optimization` skill (and specialized subagent `aso-research`) to analyze competitors.
+
+**Workflow:**
+1. Gather app details and competitor list.
+2. Deep-dive into competitor metadata and keyword strategies.
+3. Find competitive gaps and positioning opportunities.
+4. Output to `outputs/[app-name]/01-research/competitor-gaps.md`.
+"""
