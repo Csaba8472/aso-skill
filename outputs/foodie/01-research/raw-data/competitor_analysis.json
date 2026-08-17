@@ -1,0 +1,1189 @@
+{
+  "category": "Food & Drink",
+  "platform": "apple",
+  "competitors_analyzed": 15,
+  "ranked_competitors": [
+    {
+      "app_name": "NYT Cooking: Quick Tasty Meals",
+      "title_analysis": {
+        "title": "NYT Cooking: Quick Tasty Meals",
+        "length": 30,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "NYT Cooking",
+          "Quick Tasty Meals"
+        ],
+        "word_count": 5,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "New York Times Cooking has thousands of quick recipes you\u2019ll love to make, from easy weeknight dinners to holiday showstoppers. Editor-curated collections make it easy to find the right recipe, and helpful videos make them fun and simple to cook. With our digital Recipe Box, you can easily save favorites, plan a grocery list and organize the dishes you want to try. Each recipe in our collection is tested to make sure it\u2019s accurate and delicious, every time. We publish new recipes and videos every day.\n\nSubscribe to New York Times Cooking in the app, or if you\u2019re already a subscriber, log in for unlimited access to our recipes and much more.\n\nTHE NYT COOKING APP INCLUDES:\n\nDELICIOUS AND SIMPLE RECIPES\n- Healthy, hearty, vegetarian or anything else: We have 30-minute dinner recipes for seamless meal planning.\n- From morning muffins to desserts for a crowd, we have tried-and-true baking recipes for every occasion. \n- Our recipes include ratings, reviews and helpful tips from thousands of other home cooks.\n\nCOOKS YOU KNOW AND LOVE\n- We have quick recipes and cooking videos from cooks you trust, including Samin Nosrat, Ina Garten and more.\n- Plus, tips, tricks and demonstrations from our editors, including Melissa Clark and Eric Kim.\n\nHELPFUL COOKING VIDEOS\n- Follow step-by-step demonstrations and guides.\n- Scroll through hundreds of short-form cooking videos to discover new recipes.\n- Sit back and enjoy episodes of our longform shows, like Cooking 101 and The Veggie.\n\nMEAL PREP MADE EASY\n- Search our database of over 20,000 recipes by diet, cuisine, meal type and more.\n- Save and organize the recipes you want to make each week in your Recipe Box.\n- Add the ingredients to our built-in grocery list, or skip the hassle and order grocery delivery via Instacart.\n\nEASY VIEWING WITH iPAD COMPATIBILITY\n- Watch high-resolution cooking videos and photos on a larger screen.\n- Keep multiple windows open for simpler cooking.\n- Drag and drop simple recipes into folders in your Recipe Box.\n\nBY DOWNLOADING THE NEW YORK TIMES COOKING APP, you agree to:\n\u2022 The New York Times Privacy Policy: https://www.nytimes.com/privacy/privacy-policy\n\u2022 The New York Times Cookie Policy: https://www.nytimes.com/privacy/cookie-policy\n\u2022 The New York Times California Privacy Notices: https://www.nytimes.com/privacy/california-notice\n\u2022 The New York Times Terms of Service: https://www.nytimes.com/content/help/rights/terms/terms-of-service.html",
+        "length": 2443,
+        "word_count": 380,
+        "structure": {
+          "has_bullet_points": true,
+          "has_sections": true,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [
+          "Healthy, hearty, vegetarian or anything else: We have 30-minute dinner recipes for seamless meal planning.",
+          "From morning muffins to desserts for a crowd, we have tried-and-true baking recipes for every occasion.",
+          "Our recipes include ratings, reviews and helpful tips from thousands of other home cooks.",
+          "We have quick recipes and cooking videos from cooks you trust, including Samin Nosrat, Ina Garten and more.",
+          "Plus, tips, tricks and demonstrations from our editors, including Melissa Clark and Eric Kim.",
+          "Follow step-by-step demonstrations and guides.",
+          "Scroll through hundreds of short-form cooking videos to discover new recipes.",
+          "Sit back and enjoy episodes of our longform shows, like Cooking 101 and The Veggie.",
+          "Search our database of over 20,000 recipes by diet, cuisine, meal type and more.",
+          "Save and organize the recipes you want to make each week in your Recipe Box."
+        ],
+        "readability": "needs_improvement"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "cooking:",
+          "quick",
+          "tasty",
+          "meals"
+        ],
+        "description_keywords": [
+          "recipes",
+          "cooking",
+          "york",
+          "times",
+          "videos",
+          "privacy",
+          "make",
+          "from",
+          "recipe",
+          "easy"
+        ],
+        "explicit_keywords": [
+          "recipes",
+          "cooking",
+          "new",
+          "our",
+          "york",
+          "times",
+          "new york",
+          "york times",
+          "videos",
+          "privacy"
+        ],
+        "total_unique_keywords": 23,
+        "keyword_focus": "broad_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.91491,
+        "ratings_count": 533504,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 99.3,
+      "key_differentiators": []
+    },
+    {
+      "app_name": "Tasty: Recipes, Cooking Videos",
+      "title_analysis": {
+        "title": "Tasty: Recipes, Cooking Videos",
+        "length": 30,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "Tasty",
+          "Recipes, Cooking Videos"
+        ],
+        "word_count": 4,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "Welcome to the Tasty App \u2013 your ultimate cooking companion, featuring over 10,000 delicious recipes with video, step-by-step cooking mode, personalized recommendations, a thriving community of home chefs, and recipe shopping and seamless checkout. Tasty brings you the best of food and recipe discovery from the internet\u2019s favorite food brand.\n\nKey Features:\n\n10,000+ Recipes and Collections: Explore a vast library of mouth-watering dishes, complete with video guides, step-by-step instructions, and recommendations tailored to the current season, time of day, and special occasions.\n\nAI Botatouille: Powered by ChatGPT API, our AI assistant helps you find recipes that match your preferences and tastes, making it easy to discover new dishes and expand your culinary horizons.\n\nShoppable Recipe Integration: Shop for affordable recipes and get your groceries delivered or picked up through Walmart, saving you both time and money.\n\nTasty Community: Connect with fellow food enthusiasts, share photos of your creations, and get inspired by the dishes others have cooked up in our vibrant and supportive community.\n\nTips and Ratings: Learn from Tasty Creators and the Community, with helpful tips and ratings on every recipe, ensuring your cooking experience is a success.\n\nPersonalized Cookbooks: Save your favorite recipes to your profile and organize them into custom cookbooks, making it easy to find and revisit your favorite dishes.\n\nIngredient Search: Find the perfect recipe based on ingredients you have on hand, with our innovative \"ingredient search\" feature that generates dish ideas from just 3 ingredients.\n\nAdjustable Serving Sizes: Easily adjust serving sizes per recipe, with metric values side-by-side with US measurements, accommodating users both within and outside the US.\n\nConnect with Creators: See recipes from and interact with your favorite Tasty Creators, learn their cooking secrets, and get inspired by their culinary expertise.\n\nReady to embark on a delicious cooking journey? Download the Tasty App today and unlock a world of culinary inspiration at your fingertips!\n\nIf you have any trouble with your app please email us at support@buzzfeed.com so we can help! Don\u2019t forget to check out Tasty on TikTok, Instagram, Facebook, and YouTube!\n\nPlease note: This app features Nielsen\u2019s proprietary measurement software which contributes to market research, like Nielsen\u2019s TV Ratings. Please see https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/#choices for more information about Nielsen\u2019s measurement software and learn about your choices with regard to NIELSEN\u2019s measurement. Additionally, usage of the Tasty app is subject to our privacy policy and terms of use.\n\nLicense Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+        "length": 2803,
+        "word_count": 398,
+        "structure": {
+          "has_bullet_points": false,
+          "has_sections": false,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [
+          ",000+ Recipes and Collections: Explore a vast library of mouth-watering dishes, complete with video guides, step-by-step instructions, and recommendations tailored to the current season, time of day, and special occasions."
+        ],
+        "readability": "needs_improvement"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "tasty:",
+          "recipes,",
+          "cooking",
+          "videos"
+        ],
+        "description_keywords": [
+          "your",
+          "with",
+          "tasty",
+          "recipes",
+          "recipe",
+          "cooking",
+          "nielsen",
+          "step",
+          "community",
+          "from"
+        ],
+        "explicit_keywords": [
+          "your",
+          "tasty",
+          "recipes",
+          "cooking",
+          "recipe",
+          "app",
+          "nielsen",
+          "step",
+          "community",
+          "favorite"
+        ],
+        "total_unique_keywords": 19,
+        "keyword_focus": "moderate_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.90829,
+        "ratings_count": 432028,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 99.3,
+      "key_differentiators": [
+        "Tasty brings you the best of food and recipe discovery from the internet\u2019s favorite food brand",
+        "Ingredient Search: Find the perfect recipe based on ingredients you have on hand, with our innovative \"ingredient search\" feature that generates dish ideas from just 3 ingredients"
+      ]
+    },
+    {
+      "app_name": "Seamless: Local Food Delivery",
+      "title_analysis": {
+        "title": "Seamless: Local Food Delivery",
+        "length": 29,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "Seamless",
+          "Local Food Delivery"
+        ],
+        "word_count": 4,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "When in doubt, go for takeout\u2014Seamless has it all. Plus, fun fact: Seamless is powered by Grubhub! Order food delivery from thousands of restaurants, including local spots and national chains, and get groceries delivered too. Prefer pickup? No problem. Know the fees upfront and track orders from Seamless delivery partners in real time. The only surprise is just how easy takeout can be. \n\nORDER FROM THOUSANDS OF RESTAURANTS\nWith Seamless, you can order takeout from your favorite local restaurants and everyone\u2019s favorite chains. There are so many good eats out there, but you obviously deserve the best. Seamless makes it easier to choose your next meal with restaurant ratings and reviews. French fries, pizza, burritos, burgers, sushi, donuts\u2014it\u2019s all here, whenever a craving strikes. \n\nGET GROCERIES DELIVERED TOO\nThink beyond your breakfast, lunch, and dinner orders. Seamless offers the ultimate convenience with grocery delivery, in addition to restaurant takeout. Order milk, bread, snacks, and frozen foods, as well as household essentials like paper towels and laundry detergent, from local convenience stores.  \n\nEXPECT TO SEE THE FEES UPFRONT\nSeamless gives it to you straight. See the delivery fee upfront, before you start crafting the perfect food order. Pay your way with credit cards, Seamless gift cards, or Venmo.\n\nSKIP DELIVERY FEES\nThe key is Grubhub+. Sign up for unlimited $0 delivery fees on eligible orders, and enjoy exclusive offers and rewards as a Grubhub+ member.* Try Grubhub+ free for 30 days, then level up for just $9.99/month. The truth is, food tastes even better when you spend less on delivery. See details below.\n\nTRACK DELIVERY IN REAL TIME\nSeamless puts your delivery on the map. Track eligible orders in real time, from the restaurant to your front door, and know the moment your bacon-egg-and-cheese arrives. Every delivery is a special delivery with Seamless. \n\nCOUNT ON THE SEAMLESS GUARANTEE\nGet your food delivered on time and at the lowest price. Guaranteed, or we\u2019ll make it right. Terms apply. See details: seamless.com/help/contact-us/learn-about-guarantee\n\nYOU DO YOU AND SEAMLESS DELIVERS\nSeamless serves up a personalized app experience, so you can reorder that feast you\u2019re still thinking about from two months ago. Order sauce on the side, go for extra pickles, lose the onions\u2014Seamless gets you. Are you a regular? Get rewarded when you come back for more at the same restaurants. You can also plan ahead by pre-ordering food for pickup or delivery. \n\nORDER FROM NATIONAL RESTAURANTS\nSometimes you need a sure thing, and that\u2019s why Seamless partners with national restaurants to offer the takeout food you know and love. Get delivery from Applebee\u2019s, Arby\u2019s, Buffalo Wild Wings, Burger King, Chick-fil-A, Chipotle, Denny\u2019s, Dunkin\u2019, Five Guys, IHOP, McDonald\u2019s, KFC, Panda Express, Panera, Papa John\u2019s, Popeyes, Shake Shack, Subway, Taco Bell, Wendy\u2019s, White Castle, and more.\n\nGET SUPPORT WHEN YOU NEED IT\nBurning questions? Delivery crisis? Seamless customer support is here for you 24/7. \n\n*$0 delivery fees only apply to eligible delivery orders from Grubhub+ merchants that meet the subtotal minimum (before tax, tip, and fees) on the applicable menu page or otherwise indicated on the Grubhub platform. Additional fees may apply. 5% pickup credit applicable on eligible future pickup orders only and is calculated based on the qualifying order subtotal. Credit is not transferable, not redeemable for cash, expires 90 days after most recent credit is issued and is subject to restrictions. Grubhub+ is an automatically renewing membership service requiring recurring payments. After your free trial ends, your free trial will convert to a paid Grubhub+ membership and Grubhub will automatically charge you each month at the then-current rate (currently $9.99) plus tax until you cancel. See Grubhub+ cancellation and refund policy and full terms at https://lp.grubhub.com/legal/plus/",
+        "length": 3950,
+        "word_count": 612,
+        "structure": {
+          "has_bullet_points": true,
+          "has_sections": true,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [
+          "$0 delivery fees only apply to eligible delivery orders from Grubhub+ merchants that meet the subtotal minimum (before tax, tip, and fees) on the applicable menu page or otherwise indicated on the Grubhub platform. Additional fees may apply. 5% pickup credit applicable on eligible future pickup orders only and is calculated based on the qualifying order subtotal. Credit is not transferable, not redeemable for cash, expires 90 days after most recent credit is issued and is subject to restrictions. Grubhub+ is an automatically renewing membership service requiring recurring payments. After your free trial ends, your free trial will convert to a paid Grubhub+ membership and Grubhub will automatically charge you each month at the then-current rate (currently $9.99) plus tax until you cancel. See Grubhub+ cancellation and refund policy and full terms at https://lp.grubhub.com/legal/plus/"
+        ],
+        "readability": "needs_improvement"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "seamless:",
+          "local",
+          "food",
+          "delivery"
+        ],
+        "description_keywords": [
+          "seamless",
+          "delivery",
+          "grubhub",
+          "from",
+          "your",
+          "order",
+          "fees",
+          "food",
+          "restaurants",
+          "orders"
+        ],
+        "explicit_keywords": [
+          "seamless",
+          "delivery",
+          "grubhub",
+          "your",
+          "order",
+          "food",
+          "fees",
+          "restaurants",
+          "get",
+          "orders"
+        ],
+        "total_unique_keywords": 18,
+        "keyword_focus": "moderate_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.83104,
+        "ratings_count": 494222,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 98.6,
+      "key_differentiators": [
+        "The only surprise is just how easy takeout can be",
+        "There are so many good eats out there, but you obviously deserve the best",
+        "Sign up for unlimited $0 delivery fees on eligible orders, and enjoy exclusive offers and rewards as a Grubhub+ member",
+        "*$0 delivery fees only apply to eligible delivery orders from Grubhub+ merchants that meet the subtotal minimum (before tax, tip, and fees) on the applicable menu page or otherwise indicated on the Grubhub platform",
+        "5% pickup credit applicable on eligible future pickup orders only and is calculated based on the qualifying order subtotal"
+      ]
+    },
+    {
+      "app_name": "ReciMe: Recipes & Meal Planner",
+      "title_analysis": {
+        "title": "ReciMe: Recipes & Meal Planner",
+        "length": 30,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "ReciMe",
+          "Recipes & Meal Planner"
+        ],
+        "word_count": 5,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "The number 1 recipe organizer. ReciMe saves all your favorite recipes in one place, including Instagram, Facebook, TikTok, YouTube and Pinterest. Create grocery lists and meal plans. Calculate calories for every recipe. However you cook, ReciMe helps you do it, better.\n\nFEATURES\n\n- Save Recipes from Instagram, Facebook, TikTok, YouTube and Pinterest \u2013 Download recipes from social media sites. The ingredients and method steps are saved in an easy-to-read format.\n- Upload recipes from anywhere \u2013 Save your favorite recipes from your existing apps like Paprika, Notes app, Google Docs, Notion, Evernote, and more! Or add your own recipes.\n- Grocery Lists \u2013 Create smart grocery lists to shop faster! Sort ingredients by supermarket aisle or by recipe.\n- Order Groceries \u2013 Turn your grocery list into a delivery! Order directly in-app and get ingredients to your door.\n- Meal Plan for the Week \u2013 Categorize meals for breakfast, lunch, or dinner.\n- Nutrition Information \u2013 Calculate calories, protein, carbs, and fats for any recipe.\n- Create Cookbooks \u2013 Organize your recipes into cookbooks. Customize recipes by meal type (breakfast, lunch, dinner), cuisine, diet, and more!\n- Cloud Sync \u2013 All recipes are saved on the cloud.\n- Access Across Multiple Devices \u2013 iOS and iPad.\n- Adjust Ingredients \u2013 Scale ingredients to your desired serving size.\n- Convert Measurements \u2013 Change recipe measurements between standard and metric.\n- Cook with Ease \u2013 Keep your phone screen unlocked while you cook. Follow recipes step-by-step so you can focus in the kitchen.\n- Share \u2013 Share recipes with your friends and family. Or send via email, SMS, WhatsApp, Messenger, or AirDrop.\n\nHOW DOES IT WORK?\n\nReciMe includes both a free version and a subscription version with premium features.\n\nThe premium version allows you to:\n\n1.\tDownload unlimited recipes from social media, and\n\n2.\tUpload unlimited images of recipes to our smart importer\n\n3.     Calculate nutrition for every recipe\n\nYou can start a 7-day free trial to access these premium features. Unless you cancel at least 24 hours before the end of the free trial, you will be automatically charged the price indicated on the payment screen for your chosen subscription period. The ReciMe Premium subscription renews automatically at the end of each period (each month or year) until you cancel. Canceling your subscription means the automatic renewal will be disabled. However, you will still have access to all your subscription features for the remaining time of your then-current period. Note that deleting the app does not cancel your subscriptions.\n\nTerms of Use: https://www.recime.app/terms-and-conditions\n\nPrivacy Policy: https://www.recime.app/privacy-policy\n\nHave an idea to make your cooking experience with ReciMe better? Please reach out to us at https://recime.app/help",
+        "length": 2827,
+        "word_count": 443,
+        "structure": {
+          "has_bullet_points": false,
+          "has_sections": true,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [
+          "Save Recipes from Instagram, Facebook, TikTok, YouTube and Pinterest \u2013 Download recipes from social media sites. The ingredients and method steps are saved in an easy-to-read format.",
+          "Upload recipes from anywhere \u2013 Save your favorite recipes from your existing apps like Paprika, Notes app, Google Docs, Notion, Evernote, and more! Or add your own recipes.",
+          "Grocery Lists \u2013 Create smart grocery lists to shop faster! Sort ingredients by supermarket aisle or by recipe.",
+          "Order Groceries \u2013 Turn your grocery list into a delivery! Order directly in-app and get ingredients to your door.",
+          "Meal Plan for the Week \u2013 Categorize meals for breakfast, lunch, or dinner.",
+          "Nutrition Information \u2013 Calculate calories, protein, carbs, and fats for any recipe.",
+          "Create Cookbooks \u2013 Organize your recipes into cookbooks. Customize recipes by meal type (breakfast, lunch, dinner), cuisine, diet, and more!",
+          "Cloud Sync \u2013 All recipes are saved on the cloud.",
+          "Access Across Multiple Devices \u2013 iOS and iPad.",
+          "Adjust Ingredients \u2013 Scale ingredients to your desired serving size."
+        ],
+        "readability": "needs_improvement"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "recime:",
+          "recipes",
+          "meal",
+          "planner"
+        ],
+        "description_keywords": [
+          "your",
+          "recipes",
+          "recime",
+          "recipe",
+          "from",
+          "ingredients",
+          "subscription",
+          "grocery",
+          "features",
+          "with"
+        ],
+        "explicit_keywords": [
+          "your",
+          "recipes",
+          "recime",
+          "recipe",
+          "app",
+          "ingredients",
+          "subscription",
+          "meal",
+          "grocery",
+          "features"
+        ],
+        "total_unique_keywords": 18,
+        "keyword_focus": "moderate_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.80422,
+        "ratings_count": 208875,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 98.4,
+      "key_differentiators": []
+    },
+    {
+      "app_name": "Uber Eats: Food & Groceries",
+      "title_analysis": {
+        "title": "Uber Eats: Food & Groceries",
+        "length": 27,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "Uber Eats",
+          "Food & Groceries"
+        ],
+        "word_count": 5,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "Get food delivery to your doorstep from thousands of amazing local and national restaurants. Find the meal you crave and order food from restaurants easily with the Uber Eats app. Track your order in real-time.\n\nFIND YOUR FAVORITE FOOD & RESTAURANTS\nOrder food from nearby restaurants and search by cuisine, restaurant name, dish, and meal. \nFood delivery options for you to order and enjoy including pizza, burritos, burgers, sushi, donuts, and Chinese takeout.\nPrefer pickup? Skip the line and reservations and choose to pick up your order instead. Choose your favorite delivery options with the Uber Eats app now.\n\nSUBSCRIBE TO UBER ONE\nFor $9.99 per month, Uber One subscribers enjoy $0 Delivery Fee and up to 10% off orders over $15 at participating non-grocery stores (and 5% off orders over $35 at participating grocery stores) available on Uber Eats. Members are also eligible for rewards, perks, coupons, and offers. View full Uber One Terms & Conditions in app. \n\nORDER ALMOST ANYTHING, ANYTIME\nOrder household needs from your favorite drug stores, supermarkets, and pet shops. Baby food or diapers, pharmacy needs, beauty products and cosmetics. Grocery staples like bread and milk, bananas and produce, flowers and plants, packaged foods or frozen treats. \n\nSIMPLE DELIVERY ORDERING\nPick your food order from any menu and add it to your cart with a few taps. That\u2019s it.\nUber Eats makes it easy to order food delivery online or through the app and have it delivered by restaurants and delivery people near you.\nOr, schedule your order in advance for a delivery person to pick it up later. Your choice!\n\nORDER FOOD AHEAD WITH PICKUP\nNow you can also order food ahead for Pickup instead of just ordering delivery. Select Pickup, add food items to your cart, and skip the lines to the restaurant to get your food.\n\nREAL-TIME ORDER TRACKING\nTrack your food delivery order on a map as it heads your way.\nSee the estimated arrival time at your address.\nGet notified when your order arrives.\n\nFIND SOME OF YOUR FAVORITE NATIONAL RESTAURANTS\nSome of our food delivery partners include: Pizza Hut, Little Caesars, Buffalo Wild Wings, Papa Johns, Shake Shack, Domino\u2019s Pizza, Nando\u2019s, Burger King, CAVA, A&W, Chick-fil-A, Chipotle, Dunkin', IHOP, KFC, McDonald's, Panda Express, Panera, Popeyes, Shake Shack, Sonic, Starbucks, Subway, Sweetgreen, Taco Bell, Tim Hortons, Wendy's, Five Guys, Jersey Mikes, White Castle, Jack in the Box, Outback Steakhouse, Red Lobster.\n\nFIND PHARMACIES, GROCERY STORES, AND MORE\nOrder from grocers such as Albertsons and SEG. Other delivery partners in the pharmacy, convenience, and retail space include CVS, Walgreens, 7-Eleven, Wawa, Gopuff, BevMo!, and Total Wines.Order from stores such as Walmart, Walgreens, CVS and Safeway. Other delivery partners include Petco, Drizly, and Favor.\n\nABOUT UBER EATS\nUber Eats is the way to order the food you love through an easy delivery experience. Uber Eats is available in hundreds of cities around the world. Enter your delivery address to explore restaurant and grocery delivery options near you.\n\n\nAVAILABLE INTERNATIONALLY\n\nJoin the thousands of others in your city who use the Uber Eats app to order from their favorites restaurants and schedule delivery\n\nUber Eats is currently available in cities and metro areas including Adelaide, Amsterdam, Atlanta, Auckland, Austin, Baltimore, Brussels, Cape Town, Chicago, Dallas, Denver, Johannesburg, Glasgow, London, Los Angeles, Madrid, Melbourne, Mexico City, Miami, Milan, Nashville, New Orleans, New York, Ottawa, Paris, Philadelphia, Rio de Janeiro, San Diego, San Francisco, Seattle, Stockholm, Sydney, Taipei, Tokyo, Toronto, Warsaw, and Washington DC. Uber Eats helps you find food delivery around the world. See full list of available countries in the app.",
+        "length": 3793,
+        "word_count": 598,
+        "structure": {
+          "has_bullet_points": false,
+          "has_sections": true,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [],
+        "readability": "needs_improvement"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "uber",
+          "eats:",
+          "food",
+          "groceries"
+        ],
+        "description_keywords": [
+          "your",
+          "order",
+          "delivery",
+          "food",
+          "uber",
+          "eats",
+          "from",
+          "restaurants",
+          "find",
+          "grocery"
+        ],
+        "explicit_keywords": [
+          "your",
+          "order",
+          "delivery",
+          "food",
+          "uber",
+          "eats",
+          "uber eats",
+          "restaurants",
+          "app",
+          "food delivery"
+        ],
+        "total_unique_keywords": 20,
+        "keyword_focus": "moderate_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.78463,
+        "ratings_count": 10197269,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 98.3,
+      "key_differentiators": []
+    },
+    {
+      "app_name": "Gopuff - Grocery Delivery",
+      "title_analysis": {
+        "title": "Gopuff - Grocery Delivery",
+        "length": 25,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "Gopuff",
+          "Grocery Delivery"
+        ],
+        "word_count": 4,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "Thousands of items \u2013 delivered faster than you\u2019d ever expect. Gopuff is your personal teleportation device, bringing you everything you need in as fast as 15 minutes. From groceries and alcohol to home care products and more, Gopuff has you covered. We cut out the middleman, so what you see on Gopuff is what you get. That means no substitutions, no markups, and no service fees.\n\nFrom early \u2018til late, we\u2019ll take care of your weekly groceries, daily meals, and even your midnight cravings. With many locations operating 24/7, you can order and get back to relaxing, no matter what time of day. Simply open the app, tap on what you want, and find it at your door in as fast as 15 minutes. Why so fast? Because of our strategically placed Micro Fulfillment Centers, we are able to complete your order within minutes of you placing it.\n\nThe best part? New customers get 50% off their first order with code: WELCOME. Max discount $20. T&C apply. \n\nKEY FEATURES\n- Lightning fast delivery\n- Real-time tracking\n- Contactless delivery\n- Flexible payment options\n- Access to Insane Weekly Deals\n\nGROCERIES MADE EASY\n- Unbeatable pricing on 300+ fresh grocery items\n- Get high-quality meat and seafood delivered straight to your door\n- Add your EBT card and shop SNAP-eligible products at unbeatable prices \n\nYOUR FAVORITE ITEMS\n- Shop big-name brands and local favorites, without the markups\n- Prepare for your next party \u2013 Cheese and charcuterie, paper towels, cleaning supplies, and more delivered in no time\n- With over 500 micro-fulfillment centers, we\u2019re able to deliver your favorite products in over 1000+ cities**\n- Seamlessly check out with your preferred payment method \u2013 credit card, debit card, Apple Pay, Venmo, or SNAP EBT\n\nJOIN THE FAM FOR EXTRA SAVINGS & FREE DELIVERY\n- Gopuff FAM members get even \u201clower than low\u201d prices on everyday essentials like $2 organic eggs, milk, paper towels, and more. FAM members save an average of $25 per month ($300/year)\n- Discover Insane Weekly Deals of up to 60% off dropping every Monday, exclusively for members\n- Gopuff FAM members pay $0 delivery fees on every order, any time of day\n\nSHOP YOUR FAVORITE BRANDS\n- Lay\u2019s, Reese\u2019s, Tito\u2019s and more. Find local and well-known names all across Gopuff to order what you want\n- Starbucks is now available 24/7 for select Philadelphia areas. Coffee lovers can now order their favorite lattes and specialty beverages on Gopuff\n- BevMo! customers can enjoy unparalleled liquor and wine selection delivered in as fast as 15 minutes by Gopuff in California, Arizona and Washington\n\nAWESOME CUSTOMER SERVICE\n- We hope to deliver your order just right, but just in case it\u2019s not exactly what you expected, you can always give our team a call\n- Get what you need, how you expect it. We got you covered\n\nFIND GOPUFF NEAR YOU\nGopuff has hundreds of micro-fulfillment centers, plus BevMo! and Liquor Barn Stores. We also serve 1,000+ cities. Find us in Los Angeles, San Francisco, New York City, Philadelphia, Chicago, Austin, San Diego, Houston, Seattle, Miami, and many more across the United States!**\n\nDownload Gopuff today, join the FAM, and get everything you need delivered to your doorstep \u2013 in as fast as 15 minutes.\n\n* Beer, wine, liquor, and fresh groceries available in select markets. Must be 21 to purchase alcohol. Please drink responsibly.\n\n** Gopuff is not available in all markets\u2013but you never know. Want us where you are? Find us on social @gopuff or visit gopuff.com for more.",
+        "length": 3478,
+        "word_count": 592,
+        "structure": {
+          "has_bullet_points": true,
+          "has_sections": true,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [
+          "Lightning fast delivery",
+          "Real-time tracking",
+          "Contactless delivery",
+          "Flexible payment options",
+          "Access to Insane Weekly Deals",
+          "Unbeatable pricing on 300+ fresh grocery items",
+          "Get high-quality meat and seafood delivered straight to your door",
+          "Add your EBT card and shop SNAP-eligible products at unbeatable prices",
+          "Shop big-name brands and local favorites, without the markups",
+          "Prepare for your next party \u2013 Cheese and charcuterie, paper towels, cleaning supplies, and more delivered in no time"
+        ],
+        "readability": "needs_improvement"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "gopuff",
+          "grocery",
+          "delivery"
+        ],
+        "description_keywords": [
+          "gopuff",
+          "your",
+          "what",
+          "order",
+          "fast",
+          "more",
+          "delivered",
+          "minutes",
+          "find",
+          "groceries"
+        ],
+        "explicit_keywords": [
+          "gopuff",
+          "your",
+          "what",
+          "get",
+          "order",
+          "fast",
+          "more",
+          "delivery",
+          "delivered",
+          "minutes"
+        ],
+        "total_unique_keywords": 17,
+        "keyword_focus": "moderate_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.79279,
+        "ratings_count": 245678,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 98.3,
+      "key_differentiators": [
+        "The best part? New customers get 50% off their first order with code: WELCOME",
+        "FAM members save an average of $25 per month ($300/year)\n- Discover Insane Weekly Deals of up to 60% off dropping every Monday, exclusively for members\n- Gopuff FAM members pay $0 delivery fees on every order, any time of day\n\nSHOP YOUR FAVORITE BRANDS\n- Lay\u2019s, Reese\u2019s, Tito\u2019s and more"
+      ]
+    },
+    {
+      "app_name": "DoorDash: Food, Grocery, More",
+      "title_analysis": {
+        "title": "DoorDash: Food, Grocery, More",
+        "length": 29,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "DoorDash",
+          "Food, Grocery, More"
+        ],
+        "word_count": 4,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "With more than 310,000 menus and 55,000+ grocery, convenience and retail stores across 4,000+ cities in the U.S., Canada, Australia, and New Zealand, DoorDash offers the greatest online selection of your favorite restaurants and stores, delivered wherever you are. Plus, enjoy $0 delivery fees for your first order. Restrictions apply: https://drd.sh/tF5uns/\n\nIT\u2019S ALL HERE\n- Restaurants: Local and national favorites\n- Grocery: Everything from fresh produce to household items\n- Convenience: Snacks, drinks, OTC medicines, and more \n- Retail: Including gym must-haves, beauty supplies, etc.\n- Pet supplies: Treats, toys, and everything they need\n- Flowers: For special occasions or just because\n\nKEY FEATURES\n- On-demand, same-day delivery \n- Advanced delivery scheduling \n- Real-time order tracking\n- No order minimums\n- No-contact delivery by request\n- Convenient payment options: Apple Pay, Venmo, PayPal, credit card, or SNAP/EBT at participating merchants\nENJOY UNLIMITED $0 DELIVERY FEES WITH DASHPASS\nGet unlimited $0 delivery fees and up to 10% off eligible orders from restaurants, grocery stores, and more. Plus, DashPass members get access to exclusive items and offers, and 5% in DoorDash credit back on eligible pickup orders. Your first 30 days on DashPass are free, then your membership auto-renews at $9.99/month. Cancel anytime.\n\nNATIONAL RESTAURANT PARTNERS\nMcDonald\u2019s, Starbucks, Chick-fil-A, Burger King, Wendy\u2019s, Chipotle, The Cheesecake Factory, Outback Steakhouse, Panera, Chili\u2019s, Subway, Dunkin\u2019 Donuts, Jamba Juice, Panda Express, Moe\u2019s, P.F. Chang\u2019s, Denny\u2019s Buffalo Wild Wings, Papa John\u2019s, Papa Murphy\u2019s, Jack in the Box, Five Guys, Boston Market, Red Robin, TGI Friday\u2019s, Red Lobster, Qdoba, El Pollo Loco, White Castle, SmashBurger\n\nGROCERY DELIVERY PARTNERS\nSafeway, Albertsons, ALDI, Sprouts Farmers Market, Meijer, Hy-Vee, Grocery Outlet, Winn-Dixie, Smart & Final, BJ\u2019s, Vons, Weis, ACME, Raley\u2019s, Fresh Thyme, Giant Eagle, Bashas\u2019, Bristol Farms, and more. \n\nCONVENIENCE & RETAIL DELIVERY PARTNERS\nWalgreens, 7-Eleven, CVS, Rite Aid, Dollar General, Wawa, Sheets, Casey\u2019s, Total Wine, BevMo!, PetSmart, Sephora, DICK\u2019S Sporting Goods, Tractor Supply, and more.\n\nFIND RESTAURANTS AND STORES NEAR YOU\nWe\u2019re growing and currently serving over 4,000 cities across the United States, Puerto Rico, Canada, Australia, and New Zealand, including cities such as New York City, Los Angeles, Toronto, Vancouver, Melbourne, Sydney, Montreal, and more.\n\nNotice at Collection (California Residents): https://help.doordash.com/consumers/s/privacy-policy-us#section-11\n\nVisit doordash.com to learn more.",
+        "length": 2624,
+        "word_count": 367,
+        "structure": {
+          "has_bullet_points": false,
+          "has_sections": true,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [
+          "Restaurants: Local and national favorites",
+          "Grocery: Everything from fresh produce to household items",
+          "Convenience: Snacks, drinks, OTC medicines, and more",
+          "Retail: Including gym must-haves, beauty supplies, etc.",
+          "Pet supplies: Treats, toys, and everything they need",
+          "Flowers: For special occasions or just because",
+          "On-demand, same-day delivery",
+          "Advanced delivery scheduling",
+          "Real-time order tracking",
+          "No order minimums"
+        ],
+        "readability": "needs_improvement"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "doordash:",
+          "food,",
+          "grocery,",
+          "more"
+        ],
+        "description_keywords": [
+          "delivery",
+          "more",
+          "grocery",
+          "stores",
+          "doordash",
+          "your",
+          "restaurants",
+          "convenience",
+          "retail",
+          "cities"
+        ],
+        "explicit_keywords": [
+          "more",
+          "delivery",
+          "grocery",
+          "doordash",
+          "000",
+          "stores",
+          "your",
+          "restaurants",
+          "convenience",
+          "retail"
+        ],
+        "total_unique_keywords": 18,
+        "keyword_focus": "moderate_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.77428,
+        "ratings_count": 21764263,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 98.2,
+      "key_differentiators": [
+        "Plus, enjoy $0 delivery fees for your first order",
+        "Plus, DashPass members get access to exclusive items and offers, and 5% in DoorDash credit back on eligible pickup orders",
+        "Your first 30 days on DashPass are free, then your membership auto-renews at $9"
+      ]
+    },
+    {
+      "app_name": "Grubhub: Food Delivery",
+      "title_analysis": {
+        "title": "Grubhub: Food Delivery",
+        "length": 22,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "Grubhub",
+          "Food Delivery"
+        ],
+        "word_count": 3,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "Grubhub is changing the food delivery game. Hundreds of thousands of restaurants, groceries, and exclusive deals for our regulars\u2014one of which could be you. But the real play: No delivery or service fees on restaurant orders over $50. Seriously. Just more of the food you love without the fees that turn bigger orders into bigger costs.  \n\nSAY GOODBYE TO DELIVERY AND SERVICE FEES ON $50+ RESTAURANT ORDERS\nYou read that right. No delivery fees. No service fees. No more fees on restaurant orders over $50. Whether you\u2019re ordering for your family, hosting friends, or placing a group order, Grubhub makes it easier to order more without worrying about fees at checkout. Learn more at bit.ly/GHEatTheFees \n\nORDER FROM HUNDREDS OF THOUSANDS OF RESTAURANTS \nWe have what you want, from local restaurants to the chains we all know and love. Think: Taco Bell, McDonald\u2019s, KFC, Pizza Hut, Popeyes, Papa John's, Burger King, Dunkin\u2019, Starbucks, Buffalo Wild Wings, Chipotle, Wendy\u2019s, Jersey Mikes, Jimmy Johns, Panda Express, Arby\u2019s, Panera Bread, Shake Shack, and more.\n\nFrench fries, pizza, burritos, burgers, sushi, donuts\u2014okay we\u2019re making ourselves hungry, now. What we\u2019re saying is that we have it all. And if you ever need guidance for your next meal, check out our restaurant ratings and reviews. Then, just pay your way (minus the delivery and service fees on $50+ restaurant orders) with credit cards, PayPal, Venmo, Amazon Pay, cash app, and gift cards.\n\n\nGET IN ON THE EXCLUSIVE OFFERS \nThe key is Grubhub+. Sign up for unlimited $0 delivery fees and lower service fees on eligible orders\u2014on top of no delivery or service fees on $50+ restaurant orders\u2014and enjoy exclusive offers and rewards as a Grubhub+ member.* Try Grubhub+ free for 30 days, then level up for just $9.99/month. We promise: Food tastes better when you spend less on delivery. \n\nTRACK DELIVERY IN REAL TIME \nGrubhub puts your delivery on the map. Track eligible orders in real time, from the restaurant to your front door, and know the moment your meal arrives. Every delivery is a special delivery with Grubhub.\n\nCOUNT ON THE GRUBHUB GUARANTEE \nWe want you to get the best available prices compared to prices available though an eligible Grubhub competitor, or we\u2019ll make it right. Enter: the Grubhub Guarantee. If a lower price is found on another platform for an eligible order, we\u2019ll issue you the difference in Grubhub credits and provide a $5 credit toward your next order. See details at grubhub.com/guarantee\n\nGET SUPPORT WHEN YOU NEED IT \nBurning questions? Delivery crisis? Grubhub customer support is here for you 24/7.\n\n*$0 delivery fees only apply to eligible delivery orders from Grubhub+ merchants that meet the subtotal minimum (before tax, tip, and fees) on the applicable menu page or otherwise indicated on the Grubhub platform. Grubhub+ is an automatically renewing membership service requiring recurring payments. After your free trial ends, your free trial will convert to a paid Grubhub+ membership and Grubhub will automatically charge you each month at the then-current rate (currently $9.99) plus tax until you cancel. See terms: https://lp.grubhub.com/legal/plus/",
+        "length": 3164,
+        "word_count": 507,
+        "structure": {
+          "has_bullet_points": true,
+          "has_sections": true,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [
+          "$0 delivery fees only apply to eligible delivery orders from Grubhub+ merchants that meet the subtotal minimum (before tax, tip, and fees) on the applicable menu page or otherwise indicated on the Grubhub platform. Grubhub+ is an automatically renewing membership service requiring recurring payments. After your free trial ends, your free trial will convert to a paid Grubhub+ membership and Grubhub will automatically charge you each month at the then-current rate (currently $9.99) plus tax until you cancel. See terms: https://lp.grubhub.com/legal/plus/"
+        ],
+        "readability": "needs_improvement"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "grubhub:",
+          "food",
+          "delivery"
+        ],
+        "description_keywords": [
+          "grubhub",
+          "delivery",
+          "fees",
+          "orders",
+          "your",
+          "service",
+          "restaurant",
+          "more",
+          "order",
+          "eligible"
+        ],
+        "explicit_keywords": [
+          "grubhub",
+          "delivery",
+          "fees",
+          "orders",
+          "your",
+          "service",
+          "restaurant",
+          "service fees",
+          "more",
+          "order"
+        ],
+        "total_unique_keywords": 17,
+        "keyword_focus": "moderate_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.75007,
+        "ratings_count": 4562749,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 98.0,
+      "key_differentiators": [
+        "Hundreds of thousands of restaurants, groceries, and exclusive deals for our regulars\u2014one of which could be you",
+        "GET IN ON THE EXCLUSIVE OFFERS \nThe key is Grubhub+",
+        "Sign up for unlimited $0 delivery fees and lower service fees on eligible orders\u2014on top of no delivery or service fees on $50+ restaurant orders\u2014and enjoy exclusive offers and rewards as a Grubhub+ member",
+        "COUNT ON THE GRUBHUB GUARANTEE \nWe want you to get the best available prices compared to prices available though an eligible Grubhub competitor, or we\u2019ll make it right",
+        "*$0 delivery fees only apply to eligible delivery orders from Grubhub+ merchants that meet the subtotal minimum (before tax, tip, and fees) on the applicable menu page or otherwise indicated on the Grubhub platform"
+      ]
+    },
+    {
+      "app_name": "foodpanda: Food & Groceries",
+      "title_analysis": {
+        "title": "foodpanda: Food & Groceries",
+        "length": 27,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "foodpanda",
+          "Food & Groceries"
+        ],
+        "word_count": 4,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "Discover the local choice for meals, groceries, and food delivery with foodpanda!\n\nLife can get overwhelming, but we\u2019re here to help! Whether you need daily meals, groceries, or shopping essentials, foodpanda has got you covered with convenient food delivery.\n\nOrder Your Favourite Food with Just 3 Simple Taps!\n\nWith foodpanda, you can easily choose the food you love, and we\u2019ll deliver it right to your door. Serving millions across over 400 cities in 11 Asian markets \u2014 Singapore, Hong Kong, Thailand, Malaysia, Pakistan, Taiwan, the Philippines, Bangladesh, Laos, Cambodia, and Myanmar \u2014 foodpanda is your go-to for everyday food delivery.\n\nEndless Food and Grocery Delivery Choices at Your Fingertips!\nHungry for wood-fired pizza, a classic burger or fried chicken? We know the best restaurants near you \u2013 big famous brands and tiny local faves. Best part? We've got exclusive discounts and promos waiting for all new foodies. With a simple click, your food and groceries are on their way with fast delivery!\n\nNeed Groceries? We\u2019ve Got You Covered!\nWant to cook but short on time? Imagine having fresh produce, pantry staples, frozen goods, personal care items, your cute pets' needs, and much more, delivered in a flash \u2014 everything you need for a hassle-free home-cooked meal, all available through our speedy groceries delivery service from foodpanda shops and pandamarts.\n\nBest Food and Grocery Delivery Deals Just for You!\nLooking for the best savings on groceries and food? We regularly update our daily deals, personalised just for you! Here\u2019s a tip: skip the queue and choose self pick-up for extra savings on your grocery orders, or enjoy the convenience of our food delivery options.\n\nSave on tasty takeaways.\nOn the go? Try pick-up! Skip the queue and save up when you self-collect your order.\n\nWorry-free package delivery.\nNeed to send or receive a parcel? Go with pandago. Our reliable fleet and on-demand delivery service will safely deliver it for you in no time.\n\nOur tech is shaped by you.\nExplore personalised offers and delicious picks just for you. Dish out what you feel about your order and let foodies know what\u2019s yum. \n\nWant More? Join pandapro!\nUnlock even greater savings on food delivery and grocery options with our pandapro membership today!\n\nLive like a panda and let us take care of the rest \u2014 let\u2019s do it the panda way with seamless food delivery!\n\nFor more info, please visit our website.",
+        "length": 2426,
+        "word_count": 400,
+        "structure": {
+          "has_bullet_points": false,
+          "has_sections": false,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [],
+        "readability": "needs_improvement"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "foodpanda:",
+          "food",
+          "groceries"
+        ],
+        "description_keywords": [
+          "food",
+          "delivery",
+          "with",
+          "your",
+          "groceries",
+          "foodpanda",
+          "need",
+          "just",
+          "grocery",
+          "best"
+        ],
+        "explicit_keywords": [
+          "food",
+          "delivery",
+          "your",
+          "groceries",
+          "our",
+          "foodpanda",
+          "food delivery",
+          "need",
+          "just",
+          "grocery"
+        ],
+        "total_unique_keywords": 16,
+        "keyword_focus": "moderate_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.55309,
+        "ratings_count": 250084,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 96.4,
+      "key_differentiators": [
+        "Endless Food and Grocery Delivery Choices at Your Fingertips!\nHungry for wood-fired pizza, a classic burger or fried chicken? We know the best restaurants near you \u2013 big famous brands and tiny local faves",
+        "Best part? We've got exclusive discounts and promos waiting for all new foodies",
+        "Best Food and Grocery Delivery Deals Just for You!\nLooking for the best savings on groceries and food? We regularly update our daily deals, personalised just for you! Here\u2019s a tip: skip the queue and choose self pick-up for extra savings on your grocery orders, or enjoy the convenience of our food delivery options"
+      ]
+    },
+    {
+      "app_name": "Instacart: Groceries & Food",
+      "title_analysis": {
+        "title": "Instacart: Groceries & Food",
+        "length": 27,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "Instacart",
+          "Groceries & Food"
+        ],
+        "word_count": 4,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "Shop online & get your groceries delivered directly to your door in as fast as 30 minutes. Plus, your first three grocery deliveries are free! And it's safe\u2014contactless delivery is available.\n\nInstacart delivers fresh food, drinks, and household items the same day all across the US. Download the app to see what stores are available in your zip code.\n\nPrefer to pickup? Order online and pickup at your local store, where it will be waiting for you when you arrive.\n\nOrdering made easy\n1. Enter your zip code\n2. Shop stores for groceries, household items, electronics, and more\n3. Add your items to your cart and place your order\n4. Chat with your shopper in real time to make any changes to your order\n5. Relax while you you wait for your delivery to arrive\n6. Enjoy your items while you save time & money\n\nContactless delivery\nOrder safely from your home and get your groceries delivered to you same day. Our 100% contactless delivery helps to ensure you and your shopper stay safe.\n\nFind your favorite products\nGet fresh produce, late-night snacks, and even drinks delivered to your door. Don\u2019t forget essentials like toilet paper, other household items!\n\nAnd your shopper will ensure that fragile items like eggs and glass bottles are always handled with care.\n\n\nWith Instacart, you can:\n\u2022 Find exclusive deals & coupons\n\u2022 Creating shopping lists\n\u2022 Reorder your favorite products\n\u2022 View nutritional information & filter by diet\n\nWhere to shop with Instacart\nShop from your favorite stores - Aldi, Publix, Costco, Safeway, Wegmans - and nearly 40,000 other retail locations across North America.\n\nDownload to see what stores are available in your zip code.\n\nTerms and conditions apply. See details: https://www.instacart.com/help/section/360007996832",
+        "length": 1753,
+        "word_count": 288,
+        "structure": {
+          "has_bullet_points": true,
+          "has_sections": false,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [
+          "Enter your zip code",
+          "Shop stores for groceries, household items, electronics, and more",
+          "Add your items to your cart and place your order",
+          "Chat with your shopper in real time to make any changes to your order",
+          "Relax while you you wait for your delivery to arrive",
+          "Enjoy your items while you save time & money",
+          "Find exclusive deals & coupons",
+          "Creating shopping lists",
+          "Reorder your favorite products",
+          "View nutritional information & filter by diet"
+        ],
+        "readability": "good"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "instacart:",
+          "groceries",
+          "food"
+        ],
+        "description_keywords": [
+          "your",
+          "items",
+          "shop",
+          "delivery",
+          "instacart",
+          "stores",
+          "order",
+          "with",
+          "groceries",
+          "delivered"
+        ],
+        "explicit_keywords": [
+          "your",
+          "items",
+          "instacart",
+          "groceries",
+          "shop",
+          "delivery",
+          "stores",
+          "order",
+          "get",
+          "delivered"
+        ],
+        "total_unique_keywords": 18,
+        "keyword_focus": "moderate_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.81972,
+        "ratings_count": 4488055,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 94.9,
+      "key_differentiators": [
+        "Plus, your first three grocery deliveries are free! And it's safe\u2014contactless delivery is available",
+        "With Instacart, you can:\n\u2022 Find exclusive deals & coupons\n\u2022 Creating shopping lists\n\u2022 Reorder your favorite products\n\u2022 View nutritional information & filter by diet\n\nWhere to shop with Instacart\nShop from your favorite stores - Aldi, Publix, Costco, Safeway, Wegmans - and nearly 40,000 other retail locations across North America"
+      ]
+    },
+    {
+      "app_name": "Postmates - Food Delivery",
+      "title_analysis": {
+        "title": "Postmates - Food Delivery",
+        "length": 25,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "Postmates",
+          "Food Delivery"
+        ],
+        "word_count": 4,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "Delivery from your favorite restaurants, grocery stores, and more! 24/7, 365 days a year. Postmates gets you what you want, when you want it.\n\nFIND YOUR FAVORITE RESTAURANTS Browse nearby restaurants. Choose from a variety of selections to order: Pizza. Burritos. Burgers. Sushi. Chinese food. Skip the line and reservations. Order from any menu and add it to your cart with a few taps. Get it as soon as possible or schedule your delivery in advance and set when you want it delivered\n\nGROCERY, CONVENIENCE, RETAIL AND MORE Get household items from your favorite local stores, supermarkets, and even pet stores. Order baby food, diapers, pharmacy, beauty products and cosmetics. Grab your staples like bread, eggs, milk, meats, fruits and veggies. All delivered to your door.\n\nREAL-TIME ORDER TRACKING Track your food order in app as it heads your way. See the estimated delivery time to your address. Get notified when your order arrives.\nEASY PICKUP or NON-CONTACT DELIVERY You can order food ahead for Pickup instead of just ordering delivery. Select Pickup, add food items to your cart and go to the restaurant to get your food. Choose no-contact delivery option and have deliveries left at your doorstep.\n\nPROMOTIONAL TERMS $10 off your next order terms and conditions: Up to $10 off your next order. Offer valid when you download and log in the new Postmates app only. Tax & fees still apply. Store and offer availability based on user location. Limit 1 use per customer. Offer is not sharable or transferable. Offer only valid for 14 days from log in to the new Postmates app. Exclusions may apply. Offer cannot be redeemed for cash or like exchanges. Postmates reserves the right to modify or terminate this offer at any time without notice.",
+        "length": 1750,
+        "word_count": 294,
+        "structure": {
+          "has_bullet_points": false,
+          "has_sections": false,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [],
+        "readability": "good"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "postmates",
+          "food",
+          "delivery"
+        ],
+        "description_keywords": [
+          "your",
+          "order",
+          "delivery",
+          "food",
+          "offer",
+          "from",
+          "postmates",
+          "when",
+          "favorite",
+          "restaurants"
+        ],
+        "explicit_keywords": [
+          "your",
+          "order",
+          "food",
+          "delivery",
+          "offer",
+          "postmates",
+          "when",
+          "get",
+          "favorite",
+          "restaurants"
+        ],
+        "total_unique_keywords": 15,
+        "keyword_focus": "consistent_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.76948,
+        "ratings_count": 2039917,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 94.4,
+      "key_differentiators": [
+        "Offer valid when you download and log in the new Postmates app only",
+        "Offer only valid for 14 days from log in to the new Postmates app"
+      ]
+    },
+    {
+      "app_name": "Yelp: Food, Services & Reviews",
+      "title_analysis": {
+        "title": "Yelp: Food, Services & Reviews",
+        "length": 30,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "Yelp",
+          "Food, Services & Reviews"
+        ],
+        "word_count": 5,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "Yelp has over 199 million reviews of businesses worldwide. Whether you\u2019re looking for a new pizza place to try, a great coffee shop nearby, or need to book a haircut, Yelp is your local guide for finding the perfect place to eat, shop, drink, explore, and relax. The Yelp app is available for iPhone, iPad, and Apple Watch.\n\nYelp features:\n\nFood Near You - Find Restaurants\n\u2022 Find the newest and hottest restaurants in your area\n\u2022 Make reservations, order delivery or pickup\u2014all from your phone\n\u2022 Filter restaurant search results by price, location, open now, and more\n\nSearch for Nearby Businesses, Services, & Professionals\n\u2022 Discover great local businesses, from hair salons to trusted doctors and movers\n\u2022 Read millions of reviews by the Yelp community\n\u2022 Home need repairs? Find the best rated contractors and handymen\n\u2022 Find great deals offered by local businesses, get quotes instantly, and book appointments\n\nBeauty - Pamper Yourself \n\u2022 Find highly-rated salons, spas, massage therapists, and more\n\u2022 Book appointments through Yelp at the most relaxing staycation destinations\n\nSearch Filters \n\u2022 Filter your search results by neighborhood, distance, rating, price, and hours of operation\n\u2022 Look up addresses and phone numbers, call a business, or make reservations directly from the app\n\nOther Features\n\u2022 Read expert user reviews and browse through beautiful photos of each business\n\u2022 Write and read reviews, check-in to local businesses, upload photos and add tips for other Yelp users\n\nFind local restaurants, read expert customer reviews, and start searching for businesses near you with Yelp. \n\nNeed Help? Contact Yelp at https://www.yelp.com/support\nNote: Continued use of GPS running can dramatically decrease battery life.",
+        "length": 1735,
+        "word_count": 275,
+        "structure": {
+          "has_bullet_points": true,
+          "has_sections": false,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [
+          "Find the newest and hottest restaurants in your area",
+          "Make reservations, order delivery or pickup\u2014all from your phone",
+          "Filter restaurant search results by price, location, open now, and more",
+          "Discover great local businesses, from hair salons to trusted doctors and movers",
+          "Read millions of reviews by the Yelp community",
+          "Home need repairs? Find the best rated contractors and handymen",
+          "Find great deals offered by local businesses, get quotes instantly, and book appointments",
+          "Find highly-rated salons, spas, massage therapists, and more",
+          "Book appointments through Yelp at the most relaxing staycation destinations",
+          "Filter your search results by neighborhood, distance, rating, price, and hours of operation"
+        ],
+        "readability": "good"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "yelp:",
+          "food,",
+          "services",
+          "reviews"
+        ],
+        "description_keywords": [
+          "yelp",
+          "businesses",
+          "find",
+          "reviews",
+          "local",
+          "your",
+          "search",
+          "read",
+          "great",
+          "need"
+        ],
+        "explicit_keywords": [
+          "yelp",
+          "reviews",
+          "businesses",
+          "find",
+          "local",
+          "your",
+          "search",
+          "read",
+          "great",
+          "need"
+        ],
+        "total_unique_keywords": 16,
+        "keyword_focus": "moderate_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.52684,
+        "ratings_count": 1862023,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 92.2,
+      "key_differentiators": [
+        "Yelp features:\n\nFood Near You - Find Restaurants\n\u2022 Find the newest and hottest restaurants in your area\n\u2022 Make reservations, order delivery or pickup\u2014all from your phone\n\u2022 Filter restaurant search results by price, location, open now, and more\n\nSearch for Nearby Businesses, Services, & Professionals\n\u2022 Discover great local businesses, from hair salons to trusted doctors and movers\n\u2022 Read millions of reviews by the Yelp community\n\u2022 Home need repairs? Find the best rated contractors and handymen\n\u2022 Find great deals offered by local businesses, get quotes instantly, and book appointments\n\nBeauty - Pamper Yourself \n\u2022 Find highly-rated salons, spas, massage therapists, and more\n\u2022 Book appointments through Yelp at the most relaxing staycation destinations\n\nSearch Filters \n\u2022 Filter your search results by neighborhood, distance, rating, price, and hours of operation\n\u2022 Look up addresses and phone numbers, call a business, or make reservations directly from the app\n\nOther Features\n\u2022 Read expert user reviews and browse through beautiful photos of each business\n\u2022 Write and read reviews, check-in to local businesses, upload photos and add tips for other Yelp users\n\nFind local restaurants, read expert customer reviews, and start searching for businesses near you with Yelp"
+      ]
+    },
+    {
+      "app_name": "OpenTable",
+      "title_analysis": {
+        "title": "OpenTable",
+        "length": 9,
+        "has_brand": true,
+        "has_keywords": false,
+        "components": [
+          "OpenTable"
+        ],
+        "word_count": 1,
+        "strategy": "brand_only"
+      },
+      "description_analysis": {
+        "text": "Every great meal starts with OpenTable. Download the app to find the perfect restaurant no matter where life takes you.  \n\nDISCOVER SOMETHING NEW\n- Choose from over 60,000+ restaurants worldwide \n- Search for happy hours, tasting menus, and other special dining experiences\n- Get insights from real diners who have visited the restaurant with verified reviews\n- Filter by cuisine, pricepoint, and more to fine-tune your options\n- Take advantage of expert recommendations with OpenTable\u2019s guides \n\nFIND A TIME THAT WORKS FOR YOU\n- Search for specific dates, times, and specific locations to see what\u2019s available when you want to go out \n- View full availability to see when you can get into your favorite spots \n- Use Notify Me to receive alerts for last-minute openings at popular restaurants\n\nMANAGE YOUR PLANS IN ONE PLACE\n- View and change reservations from the app\n- Direct message with restaurants to ask questions, provide important information like dietary restrictions, and more \n- Earn bonus points for dining at specific restaurants when you create an OpenTable account\n\nFollow us on:\nhttps://www.instagram.com/opentable\nhttps://www.tiktok.com/@opentable\nhttps://www.youtube.com/c/OpenTable\nhttps://www.facebook.com/OpenTable/\n\nNeed help? We love hearing from you! Reach out at https://help.opentable.com/",
+        "length": 1315,
+        "word_count": 192,
+        "structure": {
+          "has_bullet_points": false,
+          "has_sections": true,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [
+          "Choose from over 60,000+ restaurants worldwide",
+          "Search for happy hours, tasting menus, and other special dining experiences",
+          "Get insights from real diners who have visited the restaurant with verified reviews",
+          "Filter by cuisine, pricepoint, and more to fine-tune your options",
+          "Take advantage of expert recommendations with OpenTable\u2019s guides",
+          "Search for specific dates, times, and specific locations to see what\u2019s available when you want to go out",
+          "View full availability to see when you can get into your favorite spots",
+          "Use Notify Me to receive alerts for last-minute openings at popular restaurants",
+          "View and change reservations from the app",
+          "Direct message with restaurants to ask questions, provide important information like dietary restrictions, and more"
+        ],
+        "readability": "good"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "opentable"
+        ],
+        "description_keywords": [
+          "opentable",
+          "https",
+          "with",
+          "from",
+          "restaurants",
+          "your",
+          "specific",
+          "when"
+        ],
+        "explicit_keywords": [
+          "opentable",
+          "https",
+          "com",
+          "restaurants",
+          "www",
+          "https www",
+          "com opentable",
+          "your",
+          "specific",
+          "when"
+        ],
+        "total_unique_keywords": 12,
+        "keyword_focus": "moderate_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.91838,
+        "ratings_count": 5272838,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 89.1,
+      "key_differentiators": []
+    },
+    {
+      "app_name": "Caviar - Order Food Delivery",
+      "title_analysis": {
+        "title": "Caviar - Order Food Delivery",
+        "length": 28,
+        "has_brand": true,
+        "has_keywords": true,
+        "components": [
+          "Caviar",
+          "Order Food Delivery"
+        ],
+        "word_count": 5,
+        "strategy": "brand_plus_keywords"
+      },
+      "description_analysis": {
+        "text": "Get food delivered from curated lists of local restaurants right at your fingertips with Caviar. Enjoy quality dining at home and make any night a special occasion.\n\nYour first delivery is free. Also, receive $10 off your first order with the code TENONFOOD on orders of $35 or more.\n\nTRUSTED AND EXCLUSIVE RESTAURANTS\nChoose from many popular local restaurants and exclusive eateries you won't find on other delivery services -- from local mom-and-pop to Michelin-rated and The Infatuation picks!\n\nDEALS AND SPECIALS\nRegularly check in our app for new restaurants, special deals, and exclusive benefits. If you are a DoorDash DashPass member, you can use those benefits on Caviar, too!\n\nNO-CONTACT DELIVERY\nDeliveries are now left at your door by default and you have the choice to select \"Hand it to me\" if you prefer. If a no-contact delivery is requested, the Dasher will know you want them to leave your food in a safe place and alert you when it's ready for pickup.\n\nREAL-TIME TRACKING\nSee when your order will arrive. From food quality to prep-times to traffic to weather, we've factored in all the elements that come between you and your food.\n\nSCHEDULE DELIVERIES\nAdvance ordering allows you to get your food when it's most convenient for you.\n\nNO MINIMUMS\nOrder as little or as much as you want.",
+        "length": 1305,
+        "word_count": 221,
+        "structure": {
+          "has_bullet_points": false,
+          "has_sections": true,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [],
+        "readability": "good"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "caviar",
+          "order",
+          "food",
+          "delivery"
+        ],
+        "description_keywords": [
+          "your",
+          "food",
+          "from",
+          "restaurants",
+          "delivery",
+          "local",
+          "order",
+          "exclusive",
+          "when"
+        ],
+        "explicit_keywords": [
+          "your",
+          "food",
+          "delivery",
+          "order",
+          "restaurants",
+          "caviar",
+          "local",
+          "exclusive",
+          "when",
+          "your food"
+        ],
+        "total_unique_keywords": 11,
+        "keyword_focus": "consistent_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.76882,
+        "ratings_count": 170216,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 87.7,
+      "key_differentiators": [
+        "Your first delivery is free",
+        "Also, receive $10 off your first order with the code TENONFOOD on orders of $35 or more",
+        "TRUSTED AND EXCLUSIVE RESTAURANTS\nChoose from many popular local restaurants and exclusive eateries you won't find on other delivery services -- from local mom-and-pop to Michelin-rated and The Infatuation picks!\n\nDEALS AND SPECIALS\nRegularly check in our app for new restaurants, special deals, and exclusive benefits"
+      ]
+    },
+    {
+      "app_name": "Resy",
+      "title_analysis": {
+        "title": "Resy",
+        "length": 4,
+        "has_brand": true,
+        "has_keywords": false,
+        "components": [
+          "Resy"
+        ],
+        "word_count": 1,
+        "strategy": "brand_only"
+      },
+      "description_analysis": {
+        "text": "Resy powers the world\u2019s best restaurants, using technology to imagine the future of hospitality. If you\u2019re a person who loves dining out but hates hassling for reservations, download Resy now! Book sought-after seats at the best restaurants in 80 cities worldwide.",
+        "length": 264,
+        "word_count": 41,
+        "structure": {
+          "has_bullet_points": false,
+          "has_sections": false,
+          "has_call_to_action": true
+        },
+        "features_mentioned": [],
+        "readability": "needs_improvement"
+      },
+      "keyword_strategy": {
+        "primary_keywords": [
+          "resy"
+        ],
+        "description_keywords": [],
+        "explicit_keywords": [
+          "resy",
+          "best",
+          "restaurants",
+          "best restaurants",
+          "powers",
+          "world",
+          "using",
+          "technology",
+          "imagine",
+          "future"
+        ],
+        "total_unique_keywords": 10,
+        "keyword_focus": "broad_focus"
+      },
+      "rating_metrics": {
+        "rating": 4.89179,
+        "ratings_count": 627877,
+        "rating_quality": "excellent"
+      },
+      "competitive_strength": 73.1,
+      "key_differentiators": [
+        "Resy powers the world\u2019s best restaurants, using technology to imagine the future of hospitality",
+        "If you\u2019re a person who loves dining out but hates hassling for reservations, download Resy now! Book sought-after seats at the best restaurants in 80 cities worldwide"
+      ]
+    }
+  ],
+  "common_keywords": [
+    "food",
+    "delivery",
+    "groceries",
+    "food,"
+  ],
+  "keyword_gaps": [
+    {
+      "keyword": "food",
+      "used_by": [
+        "Uber Eats: Food & Groceries",
+        "Grubhub: Food Delivery",
+        "Instacart: Groceries & Food",
+        "Postmates - Food Delivery",
+        "Seamless: Local Food Delivery",
+        "foodpanda: Food & Groceries",
+        "Caviar - Order Food Delivery"
+      ],
+      "usage_percentage": 46.7
+    },
+    {
+      "keyword": "delivery",
+      "used_by": [
+        "Grubhub: Food Delivery",
+        "Postmates - Food Delivery",
+        "Seamless: Local Food Delivery",
+        "Gopuff - Grocery Delivery",
+        "Caviar - Order Food Delivery"
+      ],
+      "usage_percentage": 33.3
+    },
+    {
+      "keyword": "groceries",
+      "used_by": [
+        "Uber Eats: Food & Groceries",
+        "Instacart: Groceries & Food",
+        "foodpanda: Food & Groceries"
+      ],
+      "usage_percentage": 20.0
+    },
+    {
+      "keyword": "food,",
+      "used_by": [
+        "DoorDash: Food, Grocery, More",
+        "Yelp: Food, Services & Reviews"
+      ],
+      "usage_percentage": 13.3
+    }
+  ],
+  "rating_analysis": {
+    "average_rating": 4.79,
+    "highest_rating": 4.91838,
+    "lowest_rating": 4.52684,
+    "average_ratings_count": 3543306,
+    "total_ratings_in_category": 53149598
+  },
+  "best_practices": [
+    "Title Strategy: Include primary keyword in title (e.g., 'NYT Cooking: Quick Tasty Meals')",
+    "Description: Use bullet points to highlight key features",
+    "Description: Organize content with clear section headers",
+    "Ratings: Maintain high rating quality (4.91491\u2605) with significant volume (533504 ratings)"
+  ],
+  "opportunities": [
+    "Target underutilized keywords: food, delivery, groceries, food,"
+  ]
+}
